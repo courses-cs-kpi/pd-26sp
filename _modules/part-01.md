@@ -2,9 +2,9 @@
 title: Вступ та огляд курсу
 ---
 
-10 лют
+14 лют
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/course-details.pdf)] 
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/details.pdf)] 
 
 : **Лекція 1**{: .label .label-green } **Вступ**
    : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture1.pdf)] <!--[[ВІДЕО](https://youtu.be/aO1ezluHy5g)] -->
@@ -15,7 +15,7 @@ title: Вступ та огляд курсу
 
 
 
-17 лют
+<!-- 17 лют
 : **Лекція 2**{: .label .label-green } **Вступ до CUDA C I**
    : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)] <!--[[ВІДЕО](https://youtu.be/tA8t8Z9_2S0)] -->
 
@@ -68,7 +68,7 @@ title: Вступ та огляд курсу
   : **Дедлайн**:  12 травня
 
 : **Семінар**{: .label .label-yellow} **Теми на семінар**
-  : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)]
+  : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)] -->
 
 <!-- 23 кві
 : **ПР #2**{: .label .label-purple} **Конкурентні потоки**

@@ -28,7 +28,7 @@ title: Вступ та огляд курсу
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture3.pdf)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
-  : [[Parallelizing a For-Loop](https://www.youtube.com/watch?v=BSzoEXqP9aU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=3)]
+  : [[C Basics](https://ai4ci-kpi.github.io/Refresh-in-C/presentations/Lecture_1_C_Basics.slides.html#/)] <br> [[Parallelizing a For-Loop](https://www.youtube.com/watch?v=BSzoEXqP9aU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=3)]
 
 
 : **ПР #1**{: .label .label-purple} **Прискорені обчислення з CUDA C/C++**

@@ -32,7 +32,7 @@ title: Вступ та огляд курсу
 
 
 : **ПР #1**{: .label .label-purple} **Прискорені обчислення з CUDA C/C++**
-  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/cuda-lab1.pdf)] [[Промокод](https://docs.google.com/document/d/15onEupf3JuFkJ7sPxW8kFv4aSDKhlQU47KqX6_v8oyU/edit?usp=sharing)]
+  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/cuda-lab1.pdf)] [[Промокод](https://docs.google.com/document/d/1oTqQqznyYIZhzUUIzAjMDx7oYHdd-fgtAT8JDNr9TL0/edit?usp=sharing)]
   : **Дедлайн**:  14 березня
 
 <!--

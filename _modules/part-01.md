@@ -30,12 +30,12 @@ title: Вступ та огляд курсу
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Parallelizing a For-Loop](https://www.youtube.com/watch?v=BSzoEXqP9aU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=3)]
 
-<!--
+
 : **ПР #1**{: .label .label-purple} **Прискорені обчислення з CUDA C/C++**
-  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)] [[Промокод](https://docs.google.com/document/d/15onEupf3JuFkJ7sPxW8kFv4aSDKhlQU47KqX6_v8oyU/edit?usp=sharing)]
-  : **Дедлайн**:  08 березня
+  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/cuda-lab1.pdf)] [[Промокод](https://docs.google.com/document/d/15onEupf3JuFkJ7sPxW8kFv4aSDKhlQU47KqX6_v8oyU/edit?usp=sharing)]
+  : **Дедлайн**:  14 березня
 
-
+<!--
 10 бер
 : **Лекція 4**{: .label .label-green } **Моделі паралелізму**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture4.pdf)]

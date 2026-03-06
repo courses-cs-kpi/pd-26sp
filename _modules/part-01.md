@@ -37,7 +37,7 @@ title: Вступ та огляд курсу
 
 <!--
 10 бер
-: **Лекція 4**{: .label .label-green } **Моделі паралелізму**
+: **Лекція 4**{: .label .label-green } **Моделі паралелізму** 
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture4.pdf)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**

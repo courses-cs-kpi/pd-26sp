@@ -35,14 +35,14 @@ title: Вступ та огляд курсу
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/cuda-lab1.pdf)] [[Промокод](https://docs.google.com/document/d/1oTqQqznyYIZhzUUIzAjMDx7oYHdd-fgtAT8JDNr9TL0/edit?usp=sharing)]
   : **Дедлайн**:  14 березня
 
-<!--
-10 бер
+
+07 бер
 : **Лекція 4**{: .label .label-green } **Моделі паралелізму** 
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture4.pdf)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 3, pp. 43-69 <br> [[ВІДЕО](https://www.youtube.com/watch?v=KVOc6369-Lo)]
-
+<!--
 17 бер
 : **Лекція 5**{: .label .label-green } **Пам'ять та місце зберігання даних**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture5.pdf)]

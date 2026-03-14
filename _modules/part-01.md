@@ -43,14 +43,15 @@ title: Вступ та огляд курсу
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 3, pp. 43-69 <br> [[ВІДЕО](https://www.youtube.com/watch?v=KVOc6369-Lo)]
   
-<!--
-17 бер
+
+14 бер
 : **Лекція 5**{: .label .label-green } **Пам'ять та місце зберігання даних**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture5.pdf)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Exploring GPU Architecture](https://www.youtube.com/watch?v=h9Z4oGN89MU)] <br> [[What is Shared Memory?](https://modal.com/gpu-glossary/device-software/shared-memory)]
 
+<!--
 : **ПР #2**{: .label .label-purple} **Керування пам’яттю в CUDA**
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)]     ▪️
   : **Дедлайн**:  31 березня

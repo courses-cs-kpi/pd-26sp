@@ -51,11 +51,13 @@ title: Вступ та огляд курсу
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Exploring GPU Architecture](https://www.youtube.com/watch?v=h9Z4oGN89MU)] <br> [[What is Shared Memory?](https://modal.com/gpu-glossary/device-software/shared-memory)]
 
-<!--
+
+14 бер
 : **ПР #2**{: .label .label-purple} **Керування пам’яттю в CUDA**
-  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)]     ▪️
+  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2-ac.pdf)]     ▪️
   : **Дедлайн**:  31 березня
 
+<!--
 31 бер
 : **Лекція 6**{: .label .label-green } **Навчання моделей на кількох GPU**
   : [[ipynb](https://www.kaggle.com/kyuriy/multigpu)]

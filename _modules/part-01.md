@@ -57,12 +57,16 @@ title: Вступ та огляд курсу
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2-ac.pdf)]     ▪️
   : **Дедлайн**:  31 березня
 
-<!--
-31 бер
+
+21 бер
 : **Лекція 6**{: .label .label-green } **Навчання моделей на кількох GPU**
   : [[ipynb](https://www.kaggle.com/kyuriy/multigpu)]
 
+: **Семінар**{: .label .label-yellow} **Теми на семінар**
+  : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)]
+  : **Початок**:  з 2 травня
 
+<!--
 21 кві
 : **Лекція 7**{: .label .label-green } **Розподілене навчання**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture7.pdf)]
@@ -73,8 +77,7 @@ title: Вступ та огляд курсу
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab3.pdf)] [[Промокод](https://docs.google.com/document/d/15onEupf3JuFkJ7sPxW8kFv4aSDKhlQU47KqX6_v8oyU/edit?usp=sharing)]
   : **Дедлайн**:  12 травня
 
-: **Семінар**{: .label .label-yellow} **Теми на семінар**
-  : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)] -->
+ -->
 
 <!-- 23 кві
 : **ПР #2**{: .label .label-purple} **Конкурентні потоки**

@@ -64,7 +64,7 @@ title: Вступ та огляд курсу
 
 : **Семінар**{: .label .label-yellow} **Теми на семінар**
   : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)]
-  :  з 2 травня
+  : **Дедлайн**:  з 2 травня
 
 <!--
 21 кві

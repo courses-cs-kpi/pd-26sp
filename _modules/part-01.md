@@ -66,18 +66,18 @@ title: Вступ та огляд курсу
   : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)]
     : з 2 травня
 
-<!--
-21 кві
+
+04 кві
 : **Лекція 7**{: .label .label-green } **Розподілене навчання**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture7.pdf)]
 
 
-23 кві
+<!-- 23 кві
 : **ПР #3**{: .label .label-purple} **Масштабування навантаження**
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab3.pdf)] [[Промокод](https://docs.google.com/document/d/15onEupf3JuFkJ7sPxW8kFv4aSDKhlQU47KqX6_v8oyU/edit?usp=sharing)]
-  : **Дедлайн**:  12 травня
+  : **Дедлайн**:  12 травня -->
 
- -->
+
 
 <!-- 23 кві
 : **ПР #2**{: .label .label-purple} **Конкурентні потоки**

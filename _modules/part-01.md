@@ -78,6 +78,11 @@ title: Вступ та огляд курсу
   : **Дедлайн**:  21 квітня
 
 
+25 кві
+: **Лекція 8**{: .label .label-green } **Вступ до CUDA Python**
+  : [[ipynb](https://colab.research.google.com/github/YKochura/ac-kpi/blob/main/tutor/Introduction%2Bto%2BCUDA%2BPython%2Bwith%2BNumba.ipynb)]
+
+
 
 <!-- 23 кві
 : **ПР #2**{: .label .label-purple} **Конкурентні потоки**

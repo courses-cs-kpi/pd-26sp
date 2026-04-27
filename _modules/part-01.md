@@ -83,6 +83,10 @@ title: Вступ та огляд курсу
   : [[ipynb](https://colab.research.google.com/github/YKochura/ac-kpi/blob/main/tutor/Introduction%2Bto%2BCUDA%2BPython%2Bwith%2BNumba.ipynb)]
 
 
+27 кві
+: **ПР #4**{: .label .label-purple} **Прискорені обчислення для Python з Numba**
+  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab4.pdf)]     ▪️
+  : **Дедлайн**:  16 травня
 
 <!-- 23 кві
 : **ПР #2**{: .label .label-purple} **Конкурентні потоки**
